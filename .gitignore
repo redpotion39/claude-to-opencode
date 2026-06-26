@@ -1,2 +1,22 @@
+# .env — secrets (API keys, tokens)
 .env
+
+# bridge.exe — compiled binary (9.5MB)
 bridge.exe
+
+# Common OS / editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
